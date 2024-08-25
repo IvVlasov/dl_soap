@@ -1,0 +1,56 @@
+<soap:Envelope xmlns:soap="http://www.w3.org/2003/05/soap-envelope"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <soap:Body>
+        <SetBiddingInvitation xmlns="https://services.fedresurs.ru/BiddingService2">
+            <BiddingInvitation TradeId="ОАОФЦП-45892" EventTime="2024-01-30T19:56:44.197+03:00">
+                <IDEFRSB>1670259</IDEFRSB>
+                <Debtor>
+                    <DebtorCompany FullName="АО КБ «ИВАНОВО»" ShortName="АО КБ «ИВАНОВО»"
+                        INN="3702062934" OGRN="1043700028679" />
+                </Debtor>
+                <LegalCase CaseNumber="А17-3165/2019" CourtName="456456456" Base="45645645645" />
+                <ArbitrManager FirstName="Тест Имя" LastName="Тест Фамилия" INN="183446593607" />
+                <TradeOrganizer>
+                    <TradeOrganizerCompany
+                        FullName="Общество с ограниченной ответственностью &quot;Заря&quot;"
+                        ShortName="ООО &#xD;&#xA;&quot;Заря&#xD;&#xA;-1&quot; &#xD;&#xA;&lt;навзвание&gt;&#xD;&#xA;//123123123&#xD;&#xA;/12312312321&#xD;&#xA;//&quot;123123213&quot; &#xD;&#xA;/&quot;123123&quot; &#xD;&#xA;&lt;&lt;название 2&gt;&gt;&#xD;&#xA;&lt;&lt;&gt;&gt;&#xD;&#xA;&lt;&gt;&#xD;&#xA;&amp;yfpdfybt&#xD;&#xA;&amp;название&amp;&#xD;&#xA;&amp;&lt;ntrcn&gt;&amp;"
+                        INN="3062385966" OGRN="1115563340980" />
+                </TradeOrganizer>
+                <TradeInfo AuctionType="OpenAuction" FormPrice="OpenForm">
+                    <ISRepeat>false</ISRepeat>
+                    <DatePublishSMI>2024-01-30</DatePublishSMI>
+                    <DatePublishEFIR>2024-01-30</DatePublishEFIR>
+
+                    <OpenForm TimeBegin="2024-03-06T19:45:00+03:00" />
+
+                    <Application TimeBegin="2024-01-30T18:45:00+03:00"
+                        TimeEnd="2024-03-05T18:45:00+03:00">
+                        <Rules>Заявки на участие в торгах подаются в электронной форме посредством
+                            системы электронного документооборота на сайте в сети Интернет по
+                            адресу: http://etp-bk-prodfix.fogsoft.ru/</Rules>
+                    </Application>
+                    <LotList>
+                        <Lot LotNumber="1">
+                            <StartPrice>110</StartPrice>
+                            <StepPrice xsi:nil="true" />
+                            <StepPricePercent>5</StepPricePercent>
+                            <TradeObjectHtml>3123213</TradeObjectHtml>
+                            <PaymentInfo>Сроки платежей, реквизиты счетов</PaymentInfo>
+                            <SaleAgreement>Порядок и срок заключения договора купли-продажи</SaleAgreement>
+                            <Classification>
+                                <IDClass>99</IDClass>
+                            </Classification>
+                        </Lot>
+                    </LotList>
+                    <Attach>
+                        <FileName>Архив извещения о проведении торгов №45892.zip</FileName>
+                        <Type>zip</Type>
+                        <Blob>
+                            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</Blob>
+                    </Attach>
+                </TradeInfo>
+            </BiddingInvitation>
+        </SetBiddingInvitation>
+    </soap:Body>
+</soap:Envelope>

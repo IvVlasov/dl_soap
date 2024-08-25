@@ -1,0 +1,199 @@
+[{
+    "TradeList": {
+        "Trade": [
+            {
+                "MessageList": {
+                    "TradeMessage": [
+                        {
+                            "ID": 4930587,
+                            "GUID": "2ec7ce01-d90c-408b-b964-7af644804083",
+                            "Type": "BiddingInvitation"
+                        },
+                        {
+                            "ID": 4930588,
+                            "GUID": "1bccd440-26d8-4e38-9f94-3005d8911312",
+                            "Type": "ApplicationSessionStart"
+                        },
+                        {
+                            "ID": 4930589,
+                            "GUID": "e149bc82-1c3f-452f-8a7f-111d21c52f1b",
+                            "Type": "ApplicationSessionEnd"
+                        },
+                        {
+                            "ID": 4930595,
+                            "GUID": "061eb7e7-6693-4755-8b37-7f1875919c72",
+                            "Type": "BiddingResult"
+                        },
+                        {
+                            "ID": 4930596,
+                            "GUID": "3aec6db9-2c0d-46ba-a576-7cf4819b9956",
+                            "Type": "ApplicationSessionStatistic"
+                        },
+                        {
+                            "ID": 4930597,
+                            "GUID": "05afd09f-75d9-4239-9df1-d0ecd0fca6d8",
+                            "Type": "ContractSale"
+                        }
+                    ]
+                },
+                "ID_External": "ОАЗФЦП-23",
+                "ID_EFRSB": 665191,
+                "GUID": "94a229ca-6a31-4b32-92d9-8117afee3097"
+            },
+            {
+                "MessageList": {
+                    "TradeMessage": [
+                        {
+                            "ID": 4930590,
+                            "GUID": "3232c647-7347-4089-b6d4-0c4c2129875c",
+                            "Type": "BiddingInvitation"
+                        },
+                        {
+                            "ID": 4930591,
+                            "GUID": "d1d2b70a-d697-4d4e-a7f9-4f714390e782",
+                            "Type": "ApplicationSessionStart"
+                        },
+                        {
+                            "ID": 4930592,
+                            "GUID": "18ba98f0-1eb5-42fd-b593-f88fc8bb0efc",
+                            "Type": "ApplicationSessionEnd"
+                        },
+                        {
+                            "ID": 4930598,
+                            "GUID": "9f39f966-e3db-403b-8d14-4e5245132e1e",
+                            "Type": "BiddingFail"
+                        },
+                        {
+                            "ID": 4930599,
+                            "GUID": "0639ff16-9950-4bcf-8114-2a0147a10231",
+                            "Type": "ApplicationSessionStatistic"
+                        },
+                        {
+                            "ID": 4930600,
+                            "GUID": "16ed4314-bddc-476a-b9a7-da0f3024672d",
+                            "Type": "ContractSale"
+                        }
+                    ]
+                },
+                "ID_External": "ОАЗФЦП-25",
+                "ID_EFRSB": 665192,
+                "GUID": "c750788f-511b-4a94-921d-41fe733b5615"
+            },
+            {
+                "MessageList": {
+                    "TradeMessage": [
+                        {
+                            "ID": 4930593,
+                            "GUID": "fe515809-920f-441e-856d-aacfb499ae6c",
+                            "Type": "BiddingInvitation"
+                        },
+                        {
+                            "ID": 4930594,
+                            "GUID": "d5ff5204-3212-4bb5-be4d-d84840c74bc6",
+                            "Type": "ApplicationSessionStart"
+                        },
+                        {
+                            "ID": 4930601,
+                            "GUID": "92605ea3-b9d1-4a52-aa22-18d4e8e7e81c",
+                            "Type": "ApplicationSessionEnd"
+                        },
+                        {
+                            "ID": 4930602,
+                            "GUID": "5d6cdca3-3963-4ca9-b286-c6ed05a25d83",
+                            "Type": "BiddingFail"
+                        },
+                        {
+                            "ID": 4930603,
+                            "GUID": "2370bb62-7b36-465f-82c5-6b0e90f740ba",
+                            "Type": "ApplicationSessionStatistic"
+                        },
+                        {
+                            "ID": 4930604,
+                            "GUID": "86462fb0-2b62-4be0-9095-2050fbeeada5",
+                            "Type": "ContractSale"
+                        }
+                    ]
+                },
+                "ID_External": "ОАЗФЦП-27",
+                "ID_EFRSB": 665193,
+                "GUID": "585880cb-850b-4875-bc15-de15ec3c4ccc"
+            },
+            {
+                "MessageList": {
+                    "TradeMessage": [
+                        {
+                            "ID": 4930605,
+                            "GUID": "53b3a87d-c1ca-4391-8e5d-c82b8a34aaf7",
+                            "Type": "BiddingInvitation"
+                        },
+                        {
+                            "ID": 4930606,
+                            "GUID": "ed15fef3-d801-46cc-852b-3b33b6081e37",
+                            "Type": "ApplicationSessionStart"
+                        },
+                        {
+                            "ID": 4930607,
+                            "GUID": "b3e755c3-37de-412d-ac01-236dafd4dc99",
+                            "Type": "BiddingProcess"
+                        },
+                        {
+                            "ID": 4930608,
+                            "GUID": "04d23f48-b24b-4a38-8ab8-aab168daf177",
+                            "Type": "BiddingProcess"
+                        },
+                        {
+                            "ID": 4930609,
+                            "GUID": "35b429f4-2ad6-482c-85a7-12d365f8f938",
+                            "Type": "ApplicationSessionEnd"
+                        },
+                        {
+                            "ID": 4930610,
+                            "GUID": "087b891c-e8d8-4c59-8b32-d48415f50272",
+                            "Type": "ApplicationSessionStatistic"
+                        },
+                        {
+                            "ID": 4930611,
+                            "GUID": "ac332d2e-4520-43d2-80b0-78d7523ea26a",
+                            "Type": "BiddingResult"
+                        },
+                        {
+                            "ID": 4930612,
+                            "GUID": "84e71e51-f49d-4f2c-bcc7-025e0e584f5f",
+                            "Type": "ContractSale"
+                        }
+                    ]
+                },
+                "ID_External": "ПП-29",
+                "ID_EFRSB": 665194,
+                "GUID": "5706e9c7-3bf3-4578-a3f1-ba5aef544620"
+            }
+        ]
+    },
+    "INN": "7710761281",
+    "Name": "«Системы ЭЛектронных Торгов»",
+    "Site": "www.selt-online.ru",
+    "OwnerName": "ООО «СЭлТ»"
+}, {
+    "TradeList": {
+        "Trade": [
+            {
+                "MessageList": {
+                    "TradeMessage": [
+                        {
+                            "ID": 4930613,
+                            "GUID": "8a392ebe-ba6d-4171-8b08-05e99a225646",
+                            "Type": "ApplicationSessionEnd"
+                        }
+                    ]
+                },
+                "ID_External": "1415425-1",
+                "ID_EFRSB": 665190,
+                "GUID": "94df84e1-1a2e-428e-9429-9ab6bb26c9b5"
+            }
+        ]
+    },
+    "INN": "7703561549",
+    "Name": ""Межотраслевая торговая система "Фабрикант"",
+    "Site": "www.fabrikant.ru",
+    "OwnerName": "ООО "Фабрикант.ру""
+}]

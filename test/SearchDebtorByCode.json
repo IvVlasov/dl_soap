@@ -1,0 +1,65 @@
+{
+    "_value_1": [
+        {
+            "DebtorCompany": {
+                "LastMessageDate": datetime.datetime(2024, 3, 27, 14, 25, 21, 590000),
+                "LastReportDate": datetime.datetime(2019, 1, 21, 14, 32, 20, 633000),
+                "LegalCaseList": {
+                    "LegalCaseInfo": [
+                        {
+                            "Number": "16АП-123/2023 ",
+                            "DateCreate": datetime.datetime(2023, 2, 3, 13, 0, 50, 427000),
+                            "Court": "Шестнадцатый арбитражный апелляционный суд",
+                            "ApplicantType": None,
+                            "IsApplicantCreditOrg": None,
+                            "IsLiabilitySecured": None
+                        },
+                        {
+                            "Number": "А09-123/2017 аа",
+                            "DateCreate": datetime.datetime(2017, 4, 26, 10, 9, 36, 877000),
+                            "Court": "Арбитражный суд Брянской области",
+                            "ApplicantType": None,
+                            "IsApplicantCreditOrg": None,
+                            "IsLiabilitySecured": None
+                        },
+                        {
+                            "Number": "А13-23/2017 ",
+                            "DateCreate": datetime.datetime(2017, 5, 2, 17, 13, 55, 960000),
+                            "Court": "Арбитражный суд Вологодской области",
+                            "ApplicantType": None,
+                            "IsApplicantCreditOrg": None,
+                            "IsLiabilitySecured": None
+                        },
+                        {
+                            "Number": "А48-2334/08-17б",
+                            "DateCreate": None,
+                            "Court": "Арбитражный суд Орловской области",
+                            "ApplicantType": None,
+                            "IsApplicantCreditOrg": None,
+                            "IsLiabilitySecured": None
+                        },
+                        {
+                            "Number": "А56-14221/2017 ",
+                            "DateCreate": datetime.datetime(2017, 7, 18, 12, 35, 38, 190000),
+                            "Court": "Арбитражный суд города Санкт-Петербурга и Ленинградской области",
+                            "ApplicantType": None,
+                            "IsApplicantCreditOrg": None,
+                            "IsLiabilitySecured": None
+                        }
+                    ]
+                },
+                "Category": "Обычная организация",
+                "CategoryCode": "SimpleOrganization",
+                "Region": "Орловская область",
+                "DateLastModif": datetime.datetime(2023, 5, 10, 16, 12, 57, 283000),
+                "INN": "5709003233",
+                "BankruptId": 1490,
+                "Guid": "3D8707308FDA492A29E4E222534F210E",
+                "FullName": "Закрытое акционерное общество "Залегощь-Сахар"",
+                "ShortName": "ЗАО "Залегощь-Сахар"",
+                "OGRN": "1025701655869",
+                "LegalAddress": "Орловская область, пгт. Залегощь, ул. М.Горького д. 87а"
+            }
+        }
+    ]
+}

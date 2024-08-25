@@ -1,0 +1,62 @@
+[{
+    'TradeList': {
+        'Trade': [
+            {
+                'MessageList': {
+                    'TradeMessage': [
+                        {
+                            'ID': 5033699,
+                            'GUID': '2f5d168b-86e4-432d-8de9-8e96e915d8d4',
+                            'Type': 'BiddingInvitation'
+                        },
+                        {
+                            'ID': 5033700,
+                            'GUID': '1ef36de0-507f-4ea3-b81b-0fede9509146',
+                            'Type': 'ApplicationSessionStart'
+                        }
+                    ]
+                },
+                'ID_External': 'ОАОФЦП-45892',
+                'ID_EFRSB': 669291,
+                'GUID': '0c956b3b-3b52-4ca8-bee2-add8fb1db3af'
+            },
+            {
+                'MessageList': {
+                    'TradeMessage': [
+                        {
+                            'ID': 5033701,
+                            'GUID': '46bfef2a-4dea-44fa-9ff4-bafe4c92c229',
+                            'Type': 'BiddingInvitation'
+                        },
+                        {
+                            'ID': 5033702,
+                            'GUID': '373bf8eb-3023-412b-a2b8-3dae6c50a631',
+                            'Type': 'ApplicationSessionStart'
+                        }
+                    ]
+                },
+                'ID_External': 'ПП-45890',
+                'ID_EFRSB': 669292,
+                'GUID': '8049a356-f318-47fb-9dea-59fde36f329e'
+            },
+            {
+                'MessageList': {
+                    'TradeMessage': [
+                        {
+                            'ID': 5033703,
+                            'GUID': 'cd51e8ac-0714-4b1e-ad04-f86643aab6c1',
+                            'Type': 'ApplicationSessionEnd'
+                        }
+                    ]
+                },
+                'ID_External': 'ПП-44972',
+                'ID_EFRSB': 669260,
+                'GUID': '5420c86c-02de-4c66-b4c1-3edb022e3b2b'
+            }
+        ]
+    },
+    'INN': '7606055642',
+    'Name': 'Первая электронная площадка ',
+    'Site': '1torgi.ru ',
+    'OwnerName': 'ООО "Промтех"'
+}]

@@ -1,0 +1,99 @@
+<MessageData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Id>1667294</Id>
+  <Number>1667294</Number>
+  <CaseNumber>А09-123/2017 </CaseNumber>
+  <Publisher xsi:type="Publisher.ArbitrManager.v2">
+    <Fio>
+      <LastName>Васильев</LastName>
+      <FirstName>Иван</FirstName>
+      <MiddleName>Петрович</MiddleName>
+    </Fio>
+    <Inn>110115686508</Inn>
+    <Snils>36819469638</Snils>
+    <CorrespondenceAddress>658131, край Алтайский, г Алейск, пер Алма-Атинский, 42, мм2, 43, а/я 450001</CorrespondenceAddress>
+    <Sro>
+      <Name>Ассоциация "Первая СРО АУ" - Ассоциация «Первая Саморегулируемая Организация Арбитражных Управляющих зарегистрированная в едином государственном реестре саморегулируемых организаций арбитражных управляющих»</Name>
+      <Ogrn>1025203032150</Ogrn>
+      <Inn>5260111551</Inn>
+      <Address>109029, г. Москва, ул. Скотопрогонная, д. 29/1</Address>
+    </Sro>
+  </Publisher>
+  <MessageInfo MessageType="Auction2">
+    <Auction2>
+      <Text>Текст</Text>
+      <IsRepeat>false</IsRepeat>
+      <AuctionDateTime>
+        <Date>2022-11-27</Date>
+        <Time>10:00:00</Time>
+        <MSKTimeZoneOffset>
+          <Code>+2</Code>
+          <Description>Екатеринбургское время</Description>
+        </MSKTimeZoneOffset>
+      </AuctionDateTime>
+      <TradeType>ClosedConcours</TradeType>
+      <PriceType>Public</PriceType>
+      <Application>
+        <DateTimeBegin>
+          <Date>2022-10-26</Date>
+          <Time>16:00:00</Time>
+          <MSKTimeZoneOffset>
+            <Code>+2</Code>
+            <Description>Екатеринбургское время</Description>
+          </MSKTimeZoneOffset>
+        </DateTimeBegin>
+        <DateTimeEnd>
+          <Date>2022-10-28</Date>
+          <Time>13:00:00</Time>
+          <MSKTimeZoneOffset>
+            <Code>+2</Code>
+            <Description>Екатеринбургское время</Description>
+          </MSKTimeZoneOffset>
+        </DateTimeEnd>
+        <Rules>Правила подачи заявок</Rules>
+      </Application>
+      <TradeSite>"Ru-Trade24"</TradeSite>
+      <IdTradePlace>179</IdTradePlace>
+      <LotTable>
+        <AuctionLot>
+          <Order>5</Order>
+          <StartPrice>3254564</StartPrice>
+          <Step>10.00</Step>
+          <Advance>10</Advance>
+          <Description>Дом</Description>
+          <AuctionStepUnit>Percent</AuctionStepUnit>
+          <AdvanceStepUnit>Percent</AdvanceStepUnit>
+          <ClassifierCollection>
+            <AuctionLotClassifier>
+              <Code>0103</Code>
+              <Name>Незавершенное строительство - конструкции, сооружения, здания</Name>
+            </AuctionLotClassifier>
+          </ClassifierCollection>
+        </AuctionLot>
+      </LotTable>
+      <Participants>Требования к участникам</Participants>
+      <AdditionalText>Доп. информация</AdditionalText>
+    </Auction2>
+  </MessageInfo>
+  <Bankrupt xsi:type="Bankrupt.Company.v2">
+    <Category>
+      <Code>SimpleOrganization</Code>
+      <Description>Обычная организация</Description>
+    </Category>
+    <Name>ЗАО "Залегощь-Сахар"</Name>
+    <Ogrn>1025701655869</Ogrn>
+    <Inn>5709003233</Inn>
+    <Address>Орловская область, пгт. Залегощь, ул. М.Горького д. 87а</Address>
+  </Bankrupt>
+  <PublishDate>2022-10-19T18:59:27.567</PublishDate>
+  <BankruptId>1490</BankruptId>
+  <MessageGUID>A7E1FB5BB6D3B20A5FC485B54CB835CB</MessageGUID>
+  <MessageURLList>
+    <MessageURL URLName="test.docx" URL="http://test.fedresurs.ru/Download/file.fo?guid=fd48008d-24e2-4010-af74-58e24ae2cc2f&amp;type=MessageDocument" DownloadSize="11461" />
+  </MessageURLList>
+  <FileInfoList>
+    <FileInfo>
+      <Name>test.docx</Name>
+      <Hash>DCDE69DC2AD936BCF097529A781465EC0D608908E4C0FB4928729C491B33A0D6AF325E427057F124F68CF910F821E2B23AF437A687C2CDE08D680C753DBBEB22</Hash>
+    </FileInfo>
+  </FileInfoList>
+</MessageData>

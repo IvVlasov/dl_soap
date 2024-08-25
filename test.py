@@ -1,7 +1,10 @@
-from zeep import Client
+from dateutil.parser import isoparse, parse
+from dateutil.tz import UTC
+import pytz
 
-client = Client('https://services.fedresurs.ru/Bankruptcy/MessageServiceDemo/WebService.svc?WDSL')
-result = client.service.ConvertSpeed(
-    100, 'kilometersPerhour', 'milesPerhour')
 
-# assert result == 62.137
+d = isoparse("2024-03-06T19:45:00+00:00").replace(tzinfo=None)
+print(d)
+
+# print(d.astimezone(UTC))
+# print((pytz.timezone('Europe/Moscow').localize(d)))

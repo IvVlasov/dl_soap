@@ -1,0 +1,343 @@
+{
+    "_value_1": [
+        
+        {
+            "DebtorCompany": {
+                "LastMessageDate": datetime.datetime(2024, 4, 23, 17, 48, 3, 13000),
+                "LastReportDate": None,
+                "LegalCaseList": {
+                    "LegalCaseInfo": [
+                        {
+                            "Number": "А40-4679/18-178-7 "Б"",
+                            "DateCreate": datetime.datetime(2024, 4, 23, 17, 48, 2, 300000),
+                            "Court": "Арбитражный суд города Москвы",
+                            "ApplicantType": None,
+                            "IsApplicantCreditOrg": None,
+                            "IsLiabilitySecured": None
+                        }
+                    ]
+                },
+                "Category": "Кредитная организация",
+                "CategoryCode": "CreditOrganization",
+                "Region": "Курганская область",
+                "DateLastModif": datetime.datetime(2024, 4, 23, 17, 48, 2, 77000),
+                "INN": "7736188731",
+                "BankruptId": 140548,
+                "Guid": "CF35943E88799D98628446788653CB32",
+                "FullName": "Банк профсоюзной солидарности и социальных инвестиций "Солидарность" (акционерное общество)",
+                "ShortName": "Банк "Солидарность" АО",
+                "OGRN": "1027739165409",
+                "LegalAddress": "119334,  г. Москва, Ленинский проспект, дом 37, корпус 1"
+            }
+        },
+
+
+        {
+            "DebtorPerson": {
+                "LastMessageDate": datetime.datetime(2023, 3, 17, 15, 4, 59, 840000),
+                "LastReportDate": None,
+                "LegalCaseList": None,
+                "NameHistory": {
+                    "NameHistoryItem": [
+                        "Ходак Любовь Васильевна"
+                    ]
+                },
+                "Category": "Физическое лицо",
+                "CategoryCode": "SimplePerson",
+                "Region": "Брянская область",
+                "DateLastModif": datetime.datetime(2024, 3, 4, 16, 31, 1, 450000),
+                "INN": "322600994503",
+                "BankruptId": 140178,
+                "Guid": "A62C71D8844556F9FBA4AE3AE62C8C28",
+                "LastName": "Клюева",
+                "FirstName": "Любовь",
+                "MiddleName": "Васильевна",
+                "OGRNIP": None,
+                "Birthdate": "1969-01-01",
+                "Birthplace": "пос. Рабочий Севского р-на Брянской обл.",
+                "SNILS": "07869058931",
+                "Address": "Брянская обл., Севский р-он, с. Лемешовка, ул. Молодежная, д.12"
+            }
+        },
+        {
+            "DebtorPerson": {
+                "LastMessageDate": datetime.datetime(2024, 2, 16, 10, 30, 6, 527000),
+                "LastReportDate": None,
+                "LegalCaseList": None,
+                "NameHistory": None,
+                "Category": "Физическое лицо",
+                "CategoryCode": "SimplePerson",
+                "Region": "Брянская область",
+                "DateLastModif": datetime.datetime(2024, 2, 16, 10, 28, 35, 877000),
+                "INN": "321801376390",
+                "BankruptId": 140534,
+                "Guid": "F19AC6C20589C6EA60B47869648DB0BD",
+                "LastName": "канавин",
+                "FirstName": "роман",
+                "MiddleName": "александрович",
+                "OGRNIP": None,
+                "Birthdate": "1979-10-22",
+                "Birthplace": "гор. Железногосрск",
+                "SNILS": "05490661368",
+                "Address": "Брянская обл. комаричский р-н п. Комаричи ул. 60 лет октября д 6 кв 2"
+            }
+        },
+        {
+            "DebtorPerson": {
+                "LastMessageDate": datetime.datetime(2024, 2, 6, 13, 50, 6, 500000),
+                "LastReportDate": None,
+                "LegalCaseList": None,
+                "NameHistory": {
+                    "NameHistoryItem": [
+                        "Козлова Александра Константиновна"
+                    ]
+                },
+                "Category": "Физическое лицо",
+                "CategoryCode": "SimplePerson",
+                "Region": "Нижегородская область",
+                "DateLastModif": datetime.datetime(2024, 2, 6, 13, 23, 59, 267000),
+                "INN": None,
+                "BankruptId": 140532,
+                "Guid": "57D8E97176A24E48D5C4291B6AF34B34",
+                "LastName": "Петрова",
+                "FirstName": "Александра",
+                "MiddleName": "Константиновна",
+                "OGRNIP": None,
+                "Birthdate": "1966-02-15",
+                "Birthplace": "с. Лакша Богородского р-на Горьковской обл.",
+                "SNILS": "03120652995",
+                "Address": "Нижегородская обл. Богородский р-н с. Лакша ул. Центральная д. 4 кв. 4"
+            }
+        },
+        {
+            "DebtorPerson": {
+                "LastMessageDate": datetime.datetime(2024, 4, 26, 13, 40, 32, 110000),
+                "LastReportDate": None,
+                "LegalCaseList": None,
+                "NameHistory": None,
+                "Category": "Физическое лицо",
+                "CategoryCode": "SimplePerson",
+                "Region": "Курганская область",
+                "DateLastModif": datetime.datetime(2024, 4, 26, 13, 37, 16, 837000),
+                "INN": "451301976418",
+                "BankruptId": 140549,
+                "Guid": "0DDA083243C1F65846B453730990FD29",
+                "LastName": "Иванов",
+                "FirstName": "Петр",
+                "MiddleName": "Иванович",
+                "OGRNIP": None,
+                "Birthdate": "1995-04-04",
+                "Birthplace": "гор. Курган",
+                "SNILS": "12248167644",
+                "Address": "Курганская обл., г. Курган, ул. Школьная, д. 9, кв. 22"
+            }
+        },
+        {
+            "DebtorPerson": {
+                "LastMessageDate": datetime.datetime(2024, 2, 21, 14, 55, 6, 527000),
+                "LastReportDate": None,
+                "LegalCaseList": None,
+                "NameHistory": None,
+                "Category": "Физическое лицо",
+                "CategoryCode": "SimplePerson",
+                "Region": "Смоленская область",
+                "DateLastModif": datetime.datetime(2024, 2, 19, 9, 46, 54, 230000),
+                "INN": "672705875101",
+                "BankruptId": 140535,
+                "Guid": "A1E765217A5FE6790944E0785BC1F120",
+                "LastName": "Мусикова",
+                "FirstName": "Галина",
+                "MiddleName": "Андреевна",
+                "OGRNIP": None,
+                "Birthdate": "1992-06-29",
+                "Birthplace": "дер. Соловьево Кардымовский район Смоленская область",
+                "SNILS": "14739089902",
+                "Address": "Смоленская область, Ярцевский район, Ярцево город, Солнечная улица, д.3/2, кв.31"
+            }
+        },
+        {
+            "DebtorPerson": {
+                "LastMessageDate": datetime.datetime(2024, 2, 21, 14, 55, 6, 523000),
+                "LastReportDate": None,
+                "LegalCaseList": None,
+                "NameHistory": None,
+                "Category": "Физическое лицо",
+                "CategoryCode": "SimplePerson",
+                "Region": "Смоленская область",
+                "DateLastModif": datetime.datetime(2024, 2, 21, 12, 57, 13, 337000),
+                "INN": "672708758082",
+                "BankruptId": 140539,
+                "Guid": "82E88B582591F03A306428617D01C14D",
+                "LastName": "ХАРЛАМОВА",
+                "FirstName": "ВАЛЕНТИНА",
+                "MiddleName": "АЛЕКСАНДРОВНА",
+                "OGRNIP": None,
+                "Birthdate": "1987-08-28",
+                "Birthplace": "ГОР. КЕРЧ КРЫМСКОЙ ОБЛ. РЕСП. УКРАИНА",
+                "SNILS": "11411007171",
+                "Address": "Смоленская область, Ярцевский район, Ярцево город, Школьный переулок, д.1, кв.13"
+            }
+        },
+        {
+            "DebtorPerson": {
+                "LastMessageDate": datetime.datetime(2024, 2, 21, 19, 20, 6, 480000),
+                "LastReportDate": None,
+                "LegalCaseList": None,
+                "NameHistory": None,
+                "Category": "Физическое лицо",
+                "CategoryCode": "SimplePerson",
+                "Region": "Республика Дагестан",
+                "DateLastModif": datetime.datetime(2024, 2, 21, 18, 34, 4, 480000),
+                "INN": "050703403380",
+                "BankruptId": 140540,
+                "Guid": "A04A9EFCAC8CE9AA2EF44507864B3B35",
+                "LastName": "Алиева",
+                "FirstName": "Назмира",
+                "MiddleName": "Мужаидовна",
+                "OGRNIP": None,
+                "Birthdate": "1988-12-29",
+                "Birthplace": "с.Атланаул Буйнакского р-на Республики Дагестан",
+                "SNILS": "13730202718",
+                "Address": "РФ, РД, г.Буйнакск, ул.Чехова, дом 118"
+            }
+        },
+        {
+            "DebtorPerson": {
+                "LastMessageDate": datetime.datetime(2024, 4, 15, 14, 5, 32, 67000),
+                "LastReportDate": None,
+                "LegalCaseList": None,
+                "NameHistory": None,
+                "Category": "Физическое лицо",
+                "CategoryCode": "SimplePerson",
+                "Region": "Республика Дагестан",
+                "DateLastModif": datetime.datetime(2024, 4, 15, 13, 58, 4, 647000),
+                "INN": "054300155445",
+                "BankruptId": 140545,
+                "Guid": "16C7A0323362557801E48559AE3419C5",
+                "LastName": "Мутагиров",
+                "FirstName": "Сайпутдин",
+                "MiddleName": "Магомедович",
+                "OGRNIP": None,
+                "Birthdate": "1959-07-07",
+                "Birthplace": "гор.Буйнакск Республики Дагестан",
+                "SNILS": "12201298500",
+                "Address": "РФ, РД, г.Буйнакск, ул.Ленина, дом 58, кв.43"
+            }
+        },
+        {
+            "DebtorPerson": {
+                "LastMessageDate": datetime.datetime(2024, 4, 15, 15, 5, 31, 953000),
+                "LastReportDate": None,
+                "LegalCaseList": None,
+                "NameHistory": None,
+                "Category": "Физическое лицо",
+                "CategoryCode": "SimplePerson",
+                "Region": "Республика Дагестан",
+                "DateLastModif": datetime.datetime(2024, 4, 15, 14, 16, 42, 400000),
+                "INN": "054303883139",
+                "BankruptId": 140546,
+                "Guid": "C3010418AC1F9C2B0D24DEAAF44C99E9",
+                "LastName": "Османов",
+                "FirstName": "Али",
+                "MiddleName": "Бадавиевич",
+                "OGRNIP": None,
+                "Birthdate": "1955-11-16",
+                "Birthplace": "с.В-Казанище Буйнакского р-на Республики Дагестан",
+                "SNILS": "16997288762",
+                "Address": "Респ.Дагестан г.Буйнакск ул.Островского д.17"
+            }
+        },
+        {
+            "DebtorPerson": {
+                "LastMessageDate": datetime.datetime(2024, 4, 24, 16, 30, 32, 47000),
+                "LastReportDate": None,
+                "LegalCaseList": None,
+                "NameHistory": None,
+                "Category": "Физическое лицо",
+                "CategoryCode": "SimplePerson",
+                "Region": "Республика Марий Эл",
+                "DateLastModif": datetime.datetime(2024, 4, 24, 16, 14, 13, 150000),
+                "INN": None,
+                "BankruptId": 140547,
+                "Guid": "D766ABEC311E43486BF484366F5976C0",
+                "LastName": "Иванов",
+                "FirstName": "Иван",
+                "MiddleName": "Иванович",
+                "OGRNIP": None,
+                "Birthdate": "1970-01-01",
+                "Birthplace": "гор. Йошкар-Ола",
+                "SNILS": "00360252084",
+                "Address": "Республика Марий Эл, Медведевский район"
+            }
+        },
+        {
+            "DebtorPerson": {
+                "LastMessageDate": datetime.datetime(2023, 11, 2, 11, 23, 27, 190000),
+                "LastReportDate": None,
+                "LegalCaseList": None,
+                "NameHistory": None,
+                "Category": "Физическое лицо",
+                "CategoryCode": "SimplePerson",
+                "Region": "Республика Марий Эл",
+                "DateLastModif": datetime.datetime(2024, 4, 24, 16, 7, 41, 680000),
+                "INN": None,
+                "BankruptId": 140287,
+                "Guid": "91549E4A353584597A740F7E029367D7",
+                "LastName": "тест",
+                "FirstName": "тест",
+                "MiddleName": "дщ",
+                "OGRNIP": None,
+                "Birthdate": "2000-01-01",
+                "Birthplace": "москва",
+                "SNILS": "00213505992",
+                "Address": "москва"
+            }
+        },
+        {
+            "DebtorPerson": {
+                "LastMessageDate": datetime.datetime(2024, 3, 6, 11, 5, 6, 510000),
+                "LastReportDate": None,
+                "LegalCaseList": None,
+                "NameHistory": None,
+                "Category": "Физическое лицо",
+                "CategoryCode": "SimplePerson",
+                "Region": "Чувашская Республика - Чувашия",
+                "DateLastModif": datetime.datetime(2024, 3, 6, 10, 16, 50, 247000),
+                "INN": "212400315900",
+                "BankruptId": 140541,
+                "Guid": "BED4915B2BD14F8993E445EAE5EE940C",
+                "LastName": "Кольцов",
+                "FirstName": "Петр",
+                "MiddleName": "Петрович",
+                "OGRNIP": None,
+                "Birthdate": "1955-11-16",
+                "Birthplace": "дер. Изамбаево Ядринского района Чувашской АССР",
+                "SNILS": "05972588720",
+                "Address": "д. Изамбаево Ядринского р-на Чувашской АССР"
+            }
+        },
+        {
+            "DebtorPerson": {
+                "LastMessageDate": datetime.datetime(2024, 3, 5, 13, 45, 6, 510000),
+                "LastReportDate": None,
+                "LegalCaseList": None,
+                "NameHistory": None,
+                "Category": "Физическое лицо",
+                "CategoryCode": "SimplePerson",
+                "Region": "Ямало-Ненецкий автономный округ",
+                "DateLastModif": datetime.datetime(2024, 3, 5, 13, 42, 22, 593000),
+                "INN": "890300159256",
+                "BankruptId": 140085,
+                "Guid": "408AF51B0F0666686494261246F2E676",
+                "LastName": "иванов",
+                "FirstName": "иван",
+                "MiddleName": "иванович",
+                "OGRNIP": None,
+                "Birthdate": "1977-12-25",
+                "Birthplace": "г. Москва",
+                "SNILS": None,
+                "Address": "ЯНАО, г. Ноябрьск, ул. Советская 88, кв 9"
+            }
+        }
+    ]
+}
